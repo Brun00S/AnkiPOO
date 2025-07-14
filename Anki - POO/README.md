@@ -1,11 +1,11 @@
-# 🎵 Anki Simples - Aplicativo de Flashcards com Revisão Espaçada
+# ⭐ Anki Simples - Aplicativo de Flashcards com Revisão Espaçada
 
 > Um sistema de revisão de conteúdos baseado em flashcards e espaçamento de revisão.
 > Desenvolvido como trabalho prático e objeto de avaliação parcial para a disciplina MATA55 Programação Orientada a Objetos (POO), do Instituto de Computação - UFBA, semestre 2025.1.
 
 ---
 
-## 📱💻 Sobre o Projeto
+## 💻 Sobre o Projeto
 
 **Anki Simples** Anki Simples é uma aplicação desktop feita em Java com Swing que simula um sistema de flashcards, inspirado no popular Anki.
 > A Aplicação permite a criação de baralhos, cadastro de cartões, revisão de conteúdos com espaçamento baseado em desempenho, e organização intuitiva via interface gráfica.
