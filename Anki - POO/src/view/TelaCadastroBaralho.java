@@ -90,7 +90,7 @@ public class TelaCadastroBaralho extends JPanel {
 
         JButton adicionarBaralhoBtn = new JButton("Adicionar Baralho");
         JButton salvarBtn = new JButton("Salvar");
-        JButton cancelarBtn = new JButton("ancelar");
+        JButton cancelarBtn = new JButton("Cancelar");
 
         configurarBotao(adicionarBaralhoBtn, new Color(0, 78, 152));
         configurarBotao(salvarBtn, new Color(60, 110, 113));
